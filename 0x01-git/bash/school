@@ -1,8 +1,14 @@
 #!/bin/bash
-<<<<<<< HEAD                                                                                                                                               
+<<<<<<< HEAD                                                                    
+<<<<<<< HEAD
 
-echo "The school is open"                                                                                                                                          
+echo "The school is open!"                                                                                                                                          
 
 =======                                                                                                                                                    
-echo "The school is open"           
+echo "The school is open!"           
 >>>>>>> update_script
+
+=======                                                                                                                                                    
+echo "The school is open"
+
+>>>>>>> e076428587f8dec0d0727788536eb6789c21c3af
